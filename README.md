@@ -50,7 +50,7 @@ With my IT background and passion for web development, I'm excited to continue g
 
 ## ✨ Let's Connect
 
-If you're interested in connecting and potentially exploring opportunities for collaboration or professional development, please don't hesitate to reach out to me. I am always open to new connections and am excited to see where these connections may lead.
+If you're interested in connecting and potentially exploring opportunities for collaboration or professional development, please don't hesitate to reach out to me. I'm always open to new connections and I'm excited to see where these connections may lead.
 
 Thank you for taking the time to read my bio, and I look forward to hearing from you soon!
 
