@@ -1,6 +1,6 @@
 ## <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top"> Hello there!
 
-I'm a passionate learner who's currently exploring the world of web development. I've always been interested in technology and coding, and web development has been a fascinating field for me to dive into.
+I've always been interested in technology and coding, and web development has been a fascinating field for me to dive into.
 
 Along the way, I've been using resources like online courses, tutorials, and documentation to deepen my understanding of web development concepts and best practices. I've also been practicing by building my own projects. I believe that constant learning and practice is essential to becoming a skilled web developer.
 
