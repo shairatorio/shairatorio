@@ -38,7 +38,7 @@ With my IT background and passion for web development, I'm excited to continue g
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
         alt="Git"
@@ -56,7 +56,7 @@ With my IT background and passion for web development, I'm excited to continue g
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
         width="48"
         height="48"
         alt="Git"
