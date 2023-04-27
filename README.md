@@ -61,7 +61,7 @@ With my IT background and passion for web development, I'm excited to continue g
         height="48"
         alt="Git"
       />
-      <br /><strong>Visual Studio Code</strong>
+      <br /><strong>VS Code</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
