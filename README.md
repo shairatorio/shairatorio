@@ -38,12 +38,30 @@ With my IT background and passion for web development, I'm excited to continue g
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Jira</strong>
     </td>
   </tr>
 </table>
