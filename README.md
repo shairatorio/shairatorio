@@ -56,6 +56,15 @@ With my IT background and passion for web development, I'm excited to continue g
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Visual Studio Code</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
         width="48"
         height="48"
@@ -63,7 +72,16 @@ With my IT background and passion for web development, I'm excited to continue g
       />
       <br /><strong>Jira</strong>
     </td>
-  </tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Trello</strong>
+    </td>
+  </tr>  
 </table>
 
 ## ✨ Let's Connect
