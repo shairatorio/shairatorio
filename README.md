@@ -56,6 +56,15 @@ With my IT background and passion for web development, I'm excited to continue g
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48"
+        height="48"
+        alt="git"
+      />
+      <br /><strong>Github</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="48"
         height="48"
